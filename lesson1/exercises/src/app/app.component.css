@@ -1,0 +1,11 @@
+.col-3 {
+    border-style: ridge;
+    border-radius: 5px;
+    border-color: darkgrey;
+}
+
+.col-3:hover {
+    background-color: darkgrey;
+    background-image: url('https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif');
+    background-size: cover;
+}
