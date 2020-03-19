@@ -33,7 +33,10 @@ export class CandidatesComponent implements OnInit {
     this.crew = [];
   }
 
-  // BONUS: Code the changeMissionName function here:
+  changeMissionName(text: string) {
+    this.missionName = text;
+  }
+
 
 
 }
